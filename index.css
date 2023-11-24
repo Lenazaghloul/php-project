@@ -1,0 +1,24 @@
+.image{
+    height: 50px;
+     width: 50; 
+     border-radius: 70%;
+}
+.m{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    height: 100%;
+   
+}
+.m a{
+    color: blueviolet;
+}
+div{
+    color: blueviolet;
+}
+form{
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+}
